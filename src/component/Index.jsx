@@ -260,7 +260,7 @@ function Index() {
         </div>
       </div>
 
-      <div className="w-full grid grid-cols-2 p-10 max-md:grid-cols-1 gap-8 ">
+      <div className="w-full grid grid-cols-2 p-20 max-md:grid-cols-1 gap-8 ">
         {/* Why choose us */}
         <div className=" bg-blue-950 px-12  rounded-2xl shadow-2xl">
           <div className="text-white text-[50px] text-center py-8">
